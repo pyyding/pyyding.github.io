@@ -82,7 +82,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'https://pyyding.github.io/'
   relativeLinks: 'https://pyyding.github.io/links.jsonp'
-  media: 'media'
+  media: 'images'
   ignore:
     - index.md
     - _config.yml

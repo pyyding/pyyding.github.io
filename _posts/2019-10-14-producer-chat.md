@@ -9,6 +9,5 @@ About this time, a year ago I had just found the indie maker communities on the 
 I came up with an idea to steal (phrasing.. 😄) the "chat group + todo list" concept ([MakerLog](https://getmakerlog.com), [WIP Chat](https://wip.chat/))
 and port it for beat makers, indie producers. 
 
-Honestly, I knew nothing about music production so I decided to message this guy from an Udemy course.
-
+Honestly, I knew extremely little about music production so I decided to message this guy from an Udemy course.
 ![laze-udemy.png]({{site.url}}/images/2019-10-14-producer-chat/laze-udemy.png)
