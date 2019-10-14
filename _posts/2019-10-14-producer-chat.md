@@ -11,4 +11,4 @@ and port it for beat makers, indie producers.
 
 Honestly, I knew nothing about music production so I decided to message this guy from an Udemy course.
 
-![Laziboy from Udemy]({{site.baseurl}}/_posts/laze-udemy.png)
+![laze-udemy.png]({{site.baseurl}}/_posts/laze-udemy.png)
