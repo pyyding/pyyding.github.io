@@ -19,7 +19,8 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 16px/1.4 $lato;
+  font-weight: 300;
   color: $darkGray;
 }
 
@@ -31,7 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $prata;
   color: $darkerGray;
   font-weight: bold;
 
@@ -45,14 +46,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 24px;
   a {
+    font-family: inherit;
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 h3 {
@@ -155,6 +157,8 @@ img {
 }
 
 .masthead {
+  display: flex;
+  flex-direction: column;
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
@@ -191,10 +195,11 @@ img {
 }
 
 .site-name {
+  text-align: center;
   margin: 0;
-  color: $darkGray;
+  color: $darkerGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $prata;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -212,9 +217,8 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+  font-family: $lato;
+  font-size: 14px;
 
   @include mobile {
     float: none;
@@ -266,21 +270,27 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
+    font-size: 14px;
   }
 }
 
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.social-link {
+  font-size: 14px;
+  color: #666;
+  margin-left : 10px;
+  &:first-child {
+    margin-left: initial;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
