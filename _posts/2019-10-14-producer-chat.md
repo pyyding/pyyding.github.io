@@ -4,7 +4,7 @@ title: 'Product Experiment: #1 Producer Chat'
 published: true
 ---
 
-[![Producer Chat]({{site.url}}/images/producer-chat-cover)](https://www.youtube.com/watch?v=t0i3M46cG8s)
+[![Producer Chat]({{site.baseurl}}/2019-10-14-producer-chat/images/producer-chat-cover)](https://www.youtube.com/watch?v=t0i3M46cG8s)
 ```
 tl;dr
 
@@ -38,18 +38,18 @@ First things first: what put the side project ball rolling was that I applied fo
 Here's the email I got
 
 > Hi Kaspar,
-
 >
-Very good speaking with you at this time and as mentioned, while I can't proceed to the next stage at this point, kindly know that this is because we dont have the resources to onboard you in a proper way at this time and also due to limited product knowledge.
 >
-Worry not as you can address this with some degree of self study.
+> Very good speaking with you at this time and as mentioned, while I can't proceed to the next stage at this point, kindly know that this is because we dont have the resources to onboard you in a proper way at this time and also due to limited product knowledge.
 >
-As mandatory reading I recommend you checking out :
-http://theleanstartup.com/ - The Lean Startup by Eric Reis
-http://zerotoonebook.com/ - Zero to One by Peter Thiel
-https://startupclass.samaltman.com/ - How to start a startup by Sam Altman.
+> Worry not as you can address this with some degree of self study.
 >
-Once you have had the chance to go over these please do drop me a line.
+> As mandatory reading I recommend you checking out :
+> http://theleanstartup.com/ - The Lean Startup by Eric Reis
+> http://zerotoonebook.com/ - Zero to One by Peter Thiel
+> https://startupclass.samaltman.com/ - How to start a startup by Sam Altman.
+>
+> Once you have had the chance to go over these please do drop me a line.
 
 I read the books in a couple of months but never wrote them back. Instead I was accepted for another position and have enjoyed it so far. Enough intro, cut to the chase, Kaspar!
 
@@ -58,12 +58,12 @@ I read the books in a couple of months but never wrote them back. Instead I was 
 About this time, a year ago I was just introduced to indie maker communities by Alex, the founder of [Unicorn Platform](https://unicornplatform.com). We had met in a coworking space in Bangkok and he just kept pinging me "Kaspar, what's stopping you to build something?". Studying music producing, I came up with an idea to steal _(phrasing intentional 😄)_ the "chat group, todo list, FAQ" concept that's super popular amongst makers ([MakerLog](https://getmakerlog.com), [WIP Chat](https://wip.chat/)) and port it for beat makers and indie producers. 
 
 Honestly, I knew fairly little about music production so I decided to pitch the idea to Laze, this instructor guy from an Udemy course I had just taken. He ended up loving it and shortly after we started building it.
-![laze-udemy.png]({{site.url}}/images/2019-10-14-producer-chat/laze-udemy.png)
+![laze-udemy.png]({{site.baseurl}}/images/2019-10-14-producer-chat/laze-udemy.png)
 
 ### Building The MVP
 
 We worked on Producer Chat for a couple of months, ended up with a Slack chat group and a web app. Both were integrated together with a nifty little Slack bot named Dilla Bot _(after J Dilla, an infamous beat producer)_. Dilla bot allowed you to add todos, post tracks for feedback, and provided a few other shortcuts directly from chat.
-![producer-chat-screenshot.png]({{site.baseurl}}/images/producer-chat-screenshot.png)
+![producer-chat-screenshot.png]({{site.baseurl}}/images/2019-10-14-producer-chat/producer-chat-screenshot.png)
 
 ### The Launch
 
