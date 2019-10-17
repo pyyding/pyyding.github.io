@@ -9,15 +9,15 @@ Building a WIP Chat / Makerlog knock-off for indie music producers
 
 _**tl;dr**_
 
-_Product_
-_Web app_
+_Product_\
+_Web app_\
 _- front-end: Vue with Vuetify framework_
 _- back-end: Google Firebase with Firestore_
 
-_Slack bot_
+_Slack bot_\
 _- serverless cloud functions with Firebase Functions_
 
-_Outcome_
+_Outcome_\
 _- a few hundred e-mails from various producers_
 _- considerable amount of knowledge regarding community building_
 _- first PH launch_
