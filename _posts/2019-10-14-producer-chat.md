@@ -5,7 +5,7 @@ published: true
 ---
 Building a WIP Chat / Makerlog knockoff for indie music producers
 
-[![Producer Chat]({{site.baseurl}}/2019-10-14-producer-chat/images/producer-chat-cover.png)](https://www.youtube.com/watch?v=t0i3M46cG8s)
+[![Producer Chat]({{site.baseurl}}/images/2019-10-14-producer-chat/producer-chat-cover.png)](https://www.youtube.com/watch?v=t0i3M46cG8s)
 
 _**tl;dr**_
 
