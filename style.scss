@@ -68,6 +68,9 @@ h4 {
 
 p {
   margin: 15px 0;
+  img {
+    margin-top: 10px;
+  }
 }
 
 a {
@@ -290,6 +293,21 @@ footer {
   margin-left : 10px;
   &:first-child {
     margin-left: initial;
+  }
+}
+
+/// MEDIA STUFF ///
+@media(min-width: 728px) {
+  p, li {
+    font-size: 21px;
+    line-height: 33px;
+  }
+}
+
+@media(max-width: 727.9px) {
+  p, li {
+    font-size: 18px;
+    line-height: 1.58;
   }
 }
 
