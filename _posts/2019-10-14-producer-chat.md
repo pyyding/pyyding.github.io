@@ -12,16 +12,17 @@ _**tl;dr**_
 _Product_
 <br/>
 <br/>
-_Web app_<br/>
+_Web app_
 - _front-end: Vue with Vuetify framework_
 - _back-end: Google Firebase with Firestore_
 
-_Slack bot_<br/>
+_Slack bot_
 - _serverless cloud functions with Firebase Functions_
 
-_Outcome_<br/>
+_Takeaways
 - _a few hundred e-mails from various producers_
 - _considerable amount of knowledge regarding community building_
+- _indie music producers ARE indie makers_
 - _first PH launch_
 
 ### Intro
@@ -87,4 +88,4 @@ Music is a different kind of world but all the hustle is the same for both group
 
 ## Conclusion
 
-Producer Chat did not blow viral but similar products have emerged (f.e Metapop). Making me think we were at least heading in the right direction. By studying the space I’m already building a new music-related product in my head and it definitely will be better than Producer Chat. Thanks for reading, let me know if it triggered any thoughts or questions.
+Producer Chat did not blow viral but similar products have emerged (f.e [Metapop](https://metapop.com/)). Making me think we were at least heading in the right direction. By studying the space I’m already building a new music-related product in my head and it definitely will be better than Producer Chat. Thanks for reading, let me know if it triggered any thoughts or questions.
