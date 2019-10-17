@@ -19,7 +19,7 @@ _Web app_
 _Slack bot_
 - _serverless cloud functions with Firebase Functions_
 
-_Takeaways
+_Takeaways_
 - _a few hundred e-mails from various producers_
 - _considerable amount of knowledge regarding community building_
 - _indie music producers ARE indie makers_
