@@ -72,15 +72,15 @@ Even our domain was as general as it could have been (producer.chat). The member
 ### Picking the right platform for the chat
 For some reason a lot of music producers are gamers and pretty much all gamers use Discord for chat purposes. This brings up a question why did we even go for Slack. We thought we could avoid the “gamer kids” and bring on more serious musicians. It was one of the worst decisions we made. More serious producers aren’t even online. The “gamer kids” are spending so much time behind the computer and many are already sooo popular in SoundCloud space, it’s crazy.
 
-**Google Firebase is (was?) not testable**
+### Google Firebase is (was?) not testable
 To keep things simple, I used Firebase as a back-end. 90% of this was bliss but the 10% absolute misery. Naturally, I wanted to cover important parts with tests but it was literally impossible. Google did not even have the necessary tooling for that kind of testing at the time. All the digging in forums got me invited to a Google Alpha program for something they were building to fill that gap. Meaning, things might be a lot better now.
 
-**Building a side project with two people**
+### Building a side project with two people
 It is risky, that’s for sure. You feel like you always have to align with other’s thoughts. Then there is the workload balancing because you want to make sure both would get to contribute similarly. Then you or them might miss a deadline from time and it will cause minor headaches. All these things will cost you time and a side project should not be frustrating to do.
 
 After a while, we ended up building in a way that I was shipping features and Laze was helping me with planning the next steps and giving product feedback. There were loads of other things like keeping the community alive and organising marketing stuff but essentially he took the role of an advisor. This is the form of co-building, I would totally recommend. Be the main guy, take extreme ownership over your actions but also have an expert in hand you can discuss things with.
 
-**Indie Producers ARE Indie Makers**
+### Indie Producers ARE Indie Makers
 Music is a different kind of world but all the hustle is the same for both groups. Ship songs, put stuff in front of people, see what works, improve, repeat the process. It goes analogically for makers and products.
 
 ## Conclusion
