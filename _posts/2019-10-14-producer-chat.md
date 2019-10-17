@@ -4,7 +4,7 @@ title: 'Product Experiment: #1 Producer Chat'
 published: true
 ---
 
-[![Producer Chat]({{site.baseurl}}/2019-10-14-producer-chat/images/producer-chat-cover)](https://www.youtube.com/watch?v=t0i3M46cG8s)
+[![Producer Chat]({{site.baseurl}}/2019-10-14-producer-chat/images/producer-chat-cover.png)](https://www.youtube.com/watch?v=t0i3M46cG8s)
 ```
 tl;dr
 
