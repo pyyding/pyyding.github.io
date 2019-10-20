@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Escaped LinkedIn and this is where I hide.
 
-### More Information
+I run product experiments where I design, develop, market and sell myself. When I'm tired of that, I produce sunny, laid back good-vibe music ([my SoundCloud page](https://soundcloud.com/pyta2). Main point is, I make stuff.
 
-A place to include any other types of information that you'd like to include about yourself.
+Hired as a software engineer for [Catapult Labs](http://catapultlabs.eu) which offers the work culture I stand for: remote, non-corporative environment, flexible schedule.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+On twitter: [@pyyding](https://twitter.com/pyyding)
+By email: [kaspar@pyyding.com](mailto:kaspar@pyyding.com)
