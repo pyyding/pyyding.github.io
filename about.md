@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Escaped LinkedIn and this is where I hide.
+Got BSc in Business Information Technology in 2017 but have been working as a developer from 2016. Began writing code in (AddGoals)[https://addgoals.com] (a social network platform) as a front-end developer, later became full-stack. Have done a couple freelancing gigs remotely outside from Estonia. Now hired as a software engineer for [Catapult Labs](http://catapultlabs.eu) who offers the work culture I stand for: remote-friendly, non-corporative, flexible schedules.
 
-I run product experiments where I design, develop, market and sell myself. When I'm tired of that, I produce sunny, laid back good-vibe music ([my SoundCloud](https://soundcloud.com/pyta2)). Main point is I skip the bs and **make stuff**.
-
-Hired as a software engineer for [Catapult Labs](http://catapultlabs.eu) which offers the work culture I stand for: remote, non-corporative environment, flexible schedule.
-
-### Contact me
-
-In [twitter (@pyyding)](https://twitter.com/pyyding) or by email [kaspar@pyyding.com](mailto:kaspar@pyyding.com)
+I run product experiments as a hobby. When I'm tired of that, I produce sunny, laid back, good-vibe music ([SoundCloud](https://soundcloud.com/pyta2)).
