@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Blog
+permalink: /blog/
 ---
 
-Got BSc in Business Information Technology in 2017 but have been working as a developer from 2016. Began writing code in (AddGoals)[https://addgoals.com] (a social network platform) as a front-end developer, later became full-stack. Have done a couple freelancing gigs remotely outside from Estonia. Now hired as a software engineer for [Catapult Labs](http://catapultlabs.eu) who offers the work culture I stand for: remote-friendly, non-corporative, flexible schedules.
+Got BSc in Business Information Technology in 2017 but have been working as a developer from 2016. Began writing code in [AddGoals](https://addgoals.com) (a social network platform) as a front-end developer, later became full-stack. Have done a couple freelancing gigs remotely outside from Estonia. 
+
+Now hired as a software engineer for [Catapult Labs](http://catapultlabs.eu) who offers the work culture I stand for: remote-friendly, non-corporative, flexible schedules.
 
 I run product experiments as a hobby. When I'm tired of that, I produce sunny, laid back, good-vibe music ([SoundCloud](https://soundcloud.com/pyta2)).
