@@ -12,5 +12,4 @@ Hired as a software engineer for [Catapult Labs](http://catapultlabs.eu) which o
 
 ### Contact me
 
-- In twitter: [@pyyding](https://twitter.com/pyyding)
-- By email: [kaspar@pyyding.com](mailto:kaspar@pyyding.com)
+In [twitter (@pyyding)](https://twitter.com/pyyding) or by email [kaspar@pyyding.com](mailto:kaspar@pyyding.com)
