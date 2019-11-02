@@ -88,4 +88,4 @@ Music is a different kind of world but all the hustle is the same for both group
 
 ## Conclusion
 
-Producer Chat did not blow viral but similar products have emerged (f.e [Metapop](https://metapop.com/)). Making me think we were at least heading in the right direction. By studying the space I’m already building a new music-related product in my head and it definitely will be better than Producer Chat. Thanks for reading, let me know if it triggered any thoughts or questions.
+Producer Chat did not blow viral but similar products have emerged (f.e [Metapop](https://metapop.com/)). Making me think we were at least heading in the right direction. By studying the space I’m already building a new music-related product in my head and it definitely will be better than Producer Chat. Thanks for reading, if it triggered any thoughts or questions, let me know.
