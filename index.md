@@ -4,8 +4,6 @@ title:
 permalink: /
 ---
 
-FACTS
-
 Estonian.
 
 Working as a developer from 2016. Began writing code in [AddGoals](https://addgoals.com) (a social network platform). I have done freelancing gigs for clients in Estonia, UK and US.
@@ -18,4 +16,4 @@ I run product experiments as a hobby. First one was Producer Chat: a social plat
 
 When I'm not working, I play around with music: ([SoundCloud](https://soundcloud.com/jsprks)).
 
-Resource efficient passionate small teams > funded, overcrowded start-ups
+Resource efficient passionate small teams > prematurely overfunded, overcrowded start-ups
