@@ -4,9 +4,9 @@ title: "“We need a landing page”"
 published: true
 ---
 
-Dear engineer, don’t let them make you code a landing page from scratch. Whether it’s a hackathon project, a side project or a freelance gig. Do not give in. Because you can, doesn’t mean you should. The project might not even need a landing page. Maybe it’s bad prioritization? Then again, it’s not your place to say.
+Dear engineer, don’t let them make you code a landing page from scratch. Whether it’s a hackathon project, a side project or a freelance gig. Do not give in. Just because you can, doesn’t mean you should. The project might not even need a landing page, could be bad prioritization? Then again, it’s not your place to say.
 
-What you can do, is to convince your team to use a no-code tool like [Unicorn Platform]("https://unicornplatform.com") or [Webflow]("https://webflow.com"). If you fail doing so, they will use YOU as a no-code tool and you will get so bored and learn nothing! 😄
+What you can do, is to convince your team to use a no-code tool like <a href="https://unicornplatform.com" target="_blank">Unicorn Platform</a> or <a href="https://webflow.com" target="_blank">Webflow</a>. If you fail doing so, they will use YOU as a no-code tool! 😄
 
 Landing pages are 90% copy, 10% CSS animations. Meaning, there will be loads of things, that you couldn't care less about. Here’s how you convince every sane person to use a no-code platform.
 
@@ -19,4 +19,5 @@ Landing pages are 90% copy, 10% CSS animations. Meaning, there will be loads of 
    If you can code, you already know how to use these tools. At least Unicorn Platform or Webflow don't bring many new abstractions. You don't need to start learning a complex logic like you would with Wordpress.
 
 Good luck fighting for your headspace
+<br/>
 Kaspar
