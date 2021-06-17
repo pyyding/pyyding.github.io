@@ -53,7 +53,7 @@ We want to have a monorepo with a structure
 ```
 /my-repo/my-main-app
 /my-repo/ui-lib
-/my-repo/another-app-that-uses-ui-library/
+/my-repo/another-app-that-uses-ui-library
 ```
 
 Importing the library from outside project's scope has a minor obstacle. It's not normally possible, Webpack gets angry and throws an error. 
@@ -66,15 +66,15 @@ Inside UI library folder, create an `index.js` file that exports all the compone
 
 ```
 // index.js inside ui-lib
-import AppButton from "./lib-components/AppButton" 
+import Button from "./lib-components/Button" 
 
-export default { AppButton }
+export default { Button }
 ```
 
 Create a soft symlink. Inside `./my-app` folder run the following command.
 `ln -s ../ui-lib ./components`
 
-This creates a file that redirects to `ui-lib` folder.
+This creates a symlink that redirects to `ui-lib` folder.
 
 Webpack doesn't accept symlinks by default. Modify Webpack configuration and set `resolve.symlinks = false`
 
@@ -91,6 +91,7 @@ module.exports = {
 
 Now you can import the library components like
 
-`import { AppButton } from '../components/ui-lib'`
+`import { Button } from '../components/ui-lib'`
 
 That should be it! If you can think of a nicer solution, please let me know on twitter @pyyding.
+(Example git repository)[https://github.com/pyyding/ui-lib-example]
