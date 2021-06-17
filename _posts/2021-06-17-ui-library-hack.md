@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solving the stupid problem of a UI library MVP"
+title: "Lightweight UI library MVP"
 published: true
 ---
 Say you're working with your app and you want to share UI components with another app. The correct solution is to extract and publish a UI library repository. 
