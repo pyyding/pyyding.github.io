@@ -31,13 +31,12 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: G-S3CNLC59HD
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -66,7 +65,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -79,10 +78,10 @@ plugins:
 
 # prose
 prose:
-  rooturl: '_posts'
-  siteurl: 'https://pyyding.github.io/'
-  relativeLinks: 'https://pyyding.github.io/links.jsonp'
-  media: 'images'
+  rooturl: "_posts"
+  siteurl: "https://pyyding.github.io/"
+  relativeLinks: "https://pyyding.github.io/links.jsonp"
+  media: "images"
   ignore:
     - index.md
     - _config.yml
@@ -117,7 +116,6 @@ prose:
           label: "Permalink"
           value: ""
 
-  
 # Exclude these files from your production _site
 exclude:
   - Gemfile
