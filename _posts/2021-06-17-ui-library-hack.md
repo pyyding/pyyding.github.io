@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solving the stupid problem of a UI library MVP"
-published: false
+published: true
 ---
 Say you're working with your app and you want to share UI components with another app. The correct solution is to extract and publish a UI library repository. 
 
@@ -94,4 +94,5 @@ Now you can import the library components like
 `import { Button } from '../components/ui-lib'`
 
 That should be it! If you can think of a nicer solution, please let me know on twitter @pyyding.
-(Example git repository)[https://github.com/pyyding/ui-lib-example]
+<br/>
+[Example git repository](https://github.com/pyyding/ui-lib-example)
