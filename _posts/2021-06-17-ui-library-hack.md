@@ -72,7 +72,8 @@ export default { Button }
 ```
 
 Create a soft symlink. Inside `./my-app` folder run the following command.
-`ln -s ../ui-lib ./components`
+
+```ln -s ../ui-lib ./components```
 
 This creates a symlink that redirects to `ui-lib` folder.
 
@@ -91,7 +92,7 @@ module.exports = {
 
 Now you can import the library components like
 
-`import { Button } from '../components/ui-lib'`
+```import { Button } from '../components/ui-lib'```
 
 That should be it! If you can think of a nicer solution, please let me know on twitter @pyyding.
 <br/>
