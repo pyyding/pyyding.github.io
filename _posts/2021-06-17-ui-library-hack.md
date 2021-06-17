@@ -26,7 +26,7 @@ This whole process sucks big time.
 
 This is why it's appealing to find a way around the "separate UI library repository" jargon.
 
-### Solving this problem.
+### Solving this problem
 
 I played around with a few ideas on how to tackle it: 
 
