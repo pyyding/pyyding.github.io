@@ -12,6 +12,8 @@ Started coding in [AddGoals](https://addgoals.com).
 
 Did some freelancing.
 
-Hired as a software engineer for [Catapult Labs](https://catapultlabs.eu).
+Was hired as a software engineer for [Catapult Labs](https://catapultlabs.eu).
+
+Started freelancing v2
 
 Music experiments [here](https://soundcloud.com/pyyding).
