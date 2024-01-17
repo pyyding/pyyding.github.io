@@ -9,4 +9,4 @@ logo: /images/jaam/jaam-logo-300px.png
 
 Jaam lets you see Estonian train schedule on the go. Quickly access the next departures for your usual routes either on your phone or an Apple Watch.
 
-For any requests or feedback, please contact me at [this email](mailto:jaam@kaspar-pyyding.com)
+For any requests or feedback, please contact me at [this email](mailto:kaspar.runninglow@gmail.com)
