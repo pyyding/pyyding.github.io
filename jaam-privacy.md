@@ -22,4 +22,4 @@ To keep your devices in sync, the app's state is saved to a private database in 
 
 As of this moment, the saved data consists only of starred routes. 
 
-If you have questions about this notice or wish to receive/delete your app data from the servers, email me at jaam@kaspar-pyyding.com
+If you have questions about this notice or wish to receive/delete your app data from the servers, email me at jaam@pyyd.ing
