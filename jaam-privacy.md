@@ -6,7 +6,7 @@ logo: /images/jaam/jaam-logo-300px.png
 ---
 
 # Privacy Policy
-#### Last updated January 30, 2022
+#### Last updated September 30, 2025
 
 This privacy notice describes how your information is handled with the Jaam mobile application.
 
